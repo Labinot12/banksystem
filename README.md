@@ -18,7 +18,7 @@ Getting Started
 Prerequisites:
 Java Development Kit (JDK) installed on your system.
 Clone the Repository:
-git clone https://github.com/yourusername/bank-system.git
+git clone https://github.com/Labinot12/bank-system.git
 cd bank-system
 
 Compile and Run:
